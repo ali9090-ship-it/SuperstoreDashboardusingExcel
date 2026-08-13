@@ -1,4 +1,4 @@
-#Vrinda Store Annual Sales Dashboard Using Excel
+##Vrinda Store Annual Sales Dashboard Using Excel
 
 Project Overview
 
